@@ -27,6 +27,10 @@ Repositório criado para organizar estudos em **TypeScript**, com exemplos, boas
 
 ```bash
 git clone https://github.com/JosianeCMagalhaes/estudos-typescript
-cd seu-repositorio
+```
+```bash
 npm install
+```
+```bash
 npm run dev
+```
