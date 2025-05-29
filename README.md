@@ -26,7 +26,7 @@ Repositório criado para organizar estudos em **TypeScript**, com exemplos, boas
 ## 🚀 Como Executar
 
 ```bash
-git clone https://github.com/JosianeCMagalhaes/estudos-typescritp
+git clone https://github.com/JosianeCMagalhaes/estudos-typescript
 cd seu-repositorio
 npm install
 npm run dev
